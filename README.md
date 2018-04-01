@@ -1,13 +1,6 @@
 # peerflix-gui
 GUI for [Peerflix](https://github.com/mafintosh/peerflix) using [Electron](https://github.com/electron/electron).
 
-## Installation
-* Run `npm install` to download the needed node packages.
-* Transpile the TypeScript code to JavaScript using `tsc ./src/main`
-* Run either:
-  * `npm run start` to run the program once.
-  * `npm run dist` to get an executable file.
-
 ## Features
 * Player
   * VLC
@@ -16,6 +9,13 @@ GUI for [Peerflix](https://github.com/mafintosh/peerflix) using [Electron](https
 
 ## Upcoming features
 * Select local torrent
+
+## Installation
+* Run `npm install` to download the needed node packages.
+* Transpile the TypeScript code to JavaScript using `tsc ./src/main`
+* Run either:
+  * `npm run start` to run the program once.
+  * `npm run dist` to get an executable file.
 
 ## Screenshot
 ![Screenshot of the solution][screenshot]
