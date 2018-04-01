@@ -5,13 +5,13 @@ GUI for Peerflix.
 * Run `npm install` to download the needed node packages.
 * Transpile the TypeScript code to JavaScript using `tsc ./src/main`
 * Run either:
- ** `npm run start` to run the program once.
- ** `npm run dist` to get an executable file.
+ * `npm run start` to run the program once.
+ * `npm run dist` to get an executable file.
 
 ## Features
 * Player
- ** VLC
- ** MPlayer
+ * VLC
+ * MPlayer
 * Magnet link
 
 ## Upcoming features
