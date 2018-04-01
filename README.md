@@ -2,7 +2,7 @@
 GUI for [Peerflix](https://github.com/mafintosh/peerflix) using [Electron](https://github.com/electron/electron).
 
 ## Features
-* Player
+* Select player
   * VLC
   * MPlayer
 * Magnet link
