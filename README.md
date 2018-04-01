@@ -4,7 +4,15 @@ GUI for [Peerflix](https://github.com/mafintosh/peerflix) using [Electron](https
 ## Features
 * Select player
   * VLC
+  * AirPlay
   * MPlayer
+  * SMPlayer
+  * MPC-HC Player
+  * PotPlayer
+  * MPV
+  * OMX
+  * WebPlay
+  * OMX using the audio jack
 * Magnet link
 
 ## Upcoming features
