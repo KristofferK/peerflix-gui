@@ -1,5 +1,5 @@
 # peerflix-gui
-GUI for Peerflix.
+GUI for [Peerflix](https://github.com/mafintosh/peerflix) using [Electron](https://github.com/electron/electron).
 
 ## Installation
 * Run `npm install` to download the needed node packages.
